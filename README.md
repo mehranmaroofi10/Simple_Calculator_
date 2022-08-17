@@ -15,6 +15,5 @@ the math library The problem was solved by typing the following command
 
 $ gcc -static simple_cal.o -lm
 $ nm a.out | grep pow
-0000000000400480 T __pow
-0000000000402b80 T __ieee754_pow
-0000000000400480 W pow
+
+
